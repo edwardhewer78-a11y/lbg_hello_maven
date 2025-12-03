@@ -23,7 +23,7 @@ public class App
     }
 
     public static String sayGoodbye(){
-        return "Goodbye World!";
+        return "Goodbye Beautiful World!";
     }
 
     public static String sayHelloToSomeone(String name){
